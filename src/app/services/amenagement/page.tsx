@@ -1,0 +1,1 @@
+export default function AmenagementPage() { return <h1>Aménagement</h1>; }

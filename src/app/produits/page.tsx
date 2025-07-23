@@ -1,0 +1,1 @@
+export default function ProduitsPage() { return <h1>Produits</h1>; }

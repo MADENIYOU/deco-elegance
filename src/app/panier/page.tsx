@@ -1,0 +1,1 @@
+export default function PanierPage() { return <h1>Panier</h1>; }

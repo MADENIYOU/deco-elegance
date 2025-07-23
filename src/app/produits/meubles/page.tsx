@@ -1,0 +1,1 @@
+export default function MeublesPage() { return <h1>Meubles</h1>; }

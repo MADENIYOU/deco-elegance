@@ -1,0 +1,1 @@
+export default function AProposPage() { return <h1>À Propos</h1>; }
