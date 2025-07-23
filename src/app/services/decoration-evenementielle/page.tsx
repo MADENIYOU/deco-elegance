@@ -1,0 +1,1 @@
+export default function DecorationEvenementiellePage() { return <h1>Décoration événementielle</h1>; }

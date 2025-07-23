@@ -1,0 +1,1 @@
+export default function MonComptePage() { return <h1>Mon Compte</h1>; }

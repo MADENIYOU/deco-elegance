@@ -1,0 +1,1 @@
+export default function LuminairesPage() { return <h1>Luminaires</h1>; }

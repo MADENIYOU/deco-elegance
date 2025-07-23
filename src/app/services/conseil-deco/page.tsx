@@ -1,0 +1,1 @@
+export default function ConseilDecoPage() { return <h1>Conseil déco</h1>; }

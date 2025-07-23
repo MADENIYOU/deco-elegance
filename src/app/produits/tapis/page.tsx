@@ -1,0 +1,1 @@
+export default function TapisPage() { return <h1>Tapis</h1>; }
